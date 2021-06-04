@@ -1,0 +1,7 @@
+{
+	"Link":"",//Link of a Already selling Item
+	"Name":"",//Name of the Item
+	"Price":"",//The Price you wanna pay
+	"Time":"",//How many seconds untill Refresh
+	"API":""//This is your Push Bullet Token
+}
